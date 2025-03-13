@@ -1,3 +1,3 @@
 # mytunes
 Music website repository
-Author - Vnshika Uppal
+Author - Vanshika Uppal
